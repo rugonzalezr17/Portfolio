@@ -1,0 +1,57 @@
+.row{   
+
+    background-color:#0353ff;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin:auto;
+}
+.aboutme{
+    border:1px solid black;   
+}
+body{
+ font-family: 'Monda', sans-serif;  
+
+}
+h1{
+text-align:center;    
+}
+img{
+display:block;    
+margin:auto;
+}
+.footer{
+display:flex;  
+justify-content:space-evenly;
+}
+.button{
+       background-color: #0353ff; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.info{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+}
+#projects{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top: 150px;
+    margin-bottom: 150px
+}
